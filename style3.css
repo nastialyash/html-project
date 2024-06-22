@@ -1,0 +1,29 @@
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+li{
+    
+}
+dt{
+    list-style-type: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+dd{
+    list-style-type:decimal-leading-zero;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style-type: lower-alpha;
+}
+
+    
+span{
+    color: rgba(95, 97, 96, 0.87);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

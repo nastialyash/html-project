@@ -1,0 +1,42 @@
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}
+ul{
+    list-style-image:url("/img/icons8-square-15.png");
+    list-style-position: outside;
+    background-color:rgba(63, 248, 248, 0.575);
+}
+   
+
+li{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 470;
+    background-color: rgba(167, 255, 255, 0.575);
+    list-style-position: outside;
+    
+
+}
+
+ul>li::after{
+    content: url("/img/icons8-cross-10.png");
+  
+}
+ul > li::nth-child(even) {
+    background-color: rgb(212, 3, 3);
+}
+ul>li::nth-child{
+    content: url("/img/icons8-check-mark-24.png");
+}
+.text1{
+    list-style-image: url("/img/icons8-checked-checkbox-20.png");
+
+}
+.text2{
+    list-style-image: url("/img/icons8-checked-checkbox-20.png");
+
+}
+.text3{
+    list-style-image: url("/img/icons8-checked-checkbox-20.png");
+
+}

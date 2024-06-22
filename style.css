@@ -1,0 +1,17 @@
+ol{
+    font-weight: 1000;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    margin:80px;
+    padding: 15px;;
+   list-style-position: outside;
+    background-color: rgba(187, 102, 102, 0.521);
+}
+li{
+    background-color:rgb(148, 53, 53) ;
+    margin:25px;
+    padding: 7px;
+    color: rgb(191, 193, 196);
+    list-style-position: outside;
+}
